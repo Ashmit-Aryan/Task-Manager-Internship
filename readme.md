@@ -13,5 +13,6 @@ Command-line utility with full-stack backend.
 4. node cli.js add "Test task" --due 2026-01-25
 
 ## Sample Output
-[Screenshot CLI here]
+![Backend Server](./Media/1.png)
+![CLI](./Media/2.png)
 ```
